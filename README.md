@@ -7,5 +7,11 @@
  
  
  Reach me @
- [<a href="https://www.linkedin.com/in/jahid-hasan-876578203/">Linkedin</a>
+ <br/>
+ <a href="https://www.linkedin.com/in/jahid-hasan-876578203/">Linkedin</a>
+ <a href="https://www.facebook.com/profile.php?id=100034030120779">Facebook</a>
+ <br/>
+ Online portfolia :  <a href="https://personal-portfolio-e0268.web.app/">Jahid Hasan</a>
+  
+ 
 
